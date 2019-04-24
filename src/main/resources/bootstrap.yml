@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: marvin-auth-server
+  cloud:
+    config:
+      uri: https://marvin-config-server.herokuapp.com
